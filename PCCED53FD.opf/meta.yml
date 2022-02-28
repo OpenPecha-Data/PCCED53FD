@@ -1,0 +1,16 @@
+id: PCCED53FD
+initial_creation_type: input
+source_metadata:
+  title: Dongak Chökyi Gyatso
+  language: zh
+  description: 'Texts by Dongak Chökyi Gyatso (mdo sngags chos kyi rgya mtsho, 1903–1957)
+    aka Tulku Sungrab (sprul sku gsung rab) of Pal Nyenmo Monastery in Golok:'
+  volume:
+    d51db37078ef4e048bb12bb6612af16f:
+      title: Memorandum on the Subject of Mahāmudrā and Dzogchen Instructions
+      parent: Advice
+    f33be9e6e165471c8079afa90b8dd74d:
+      title: Commentary on Some Terms from the Great Perfection
+      parent: Dzogchen
+created_at: '2022-02-28T23:02:32.253283'
+last_modified_at: '2022-02-28T23:02:32.253285'
